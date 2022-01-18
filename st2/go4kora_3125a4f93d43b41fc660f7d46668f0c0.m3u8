@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="avc1.64001e,mp4a.40.2"
-https://5qy13y.cdn4kora.com/live/ch3hd/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2"
+https://zb6u4a.cdn4kora.com/live/https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/0_4NN_Yld1K340O_fw0JUmr1UYAE1CLrjNrKk5SJ5s81pKI_VjFsEC303lJRJ6NE66s8RVYHWY3IjtuQCKQOZA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live/index.m3u8
