@@ -1,10 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2
-https://q6.thefitnesshints.com/live/multi3.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2
-https://q5.thefitnesshints.com/live/multi3.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2
-https://q3.thefitnesshints.com/live/multi3.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2
-https://j2.thefitnesshints.com/live/multi3.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=500000,CODECS="avc1.64001e,mp4a.40.2"
+http://b.banourahga.xyz/live/99821/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2"
+http://b.banourahga.xyz/live/515141/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="avc1.64001e,mp4a.40.2"
+http://b.banourahga.xyz/live/88001/index.m3u8
