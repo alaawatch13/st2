@@ -3,7 +3,7 @@
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2"
 https://ma5.vicious-cdn.football/ad1.html?live")'>
 360p
-  </button><button class='button' onclick='dotab(this); setURL("https://ma5.vicious-cdn.football/ad2.html?live")'>
+  </button><button class='button' onclick='dotab(this); setURL("https://ma5.vicious-cdn.football/ad22.html?live")'>
 480p
   </button>
 <button class='button' onclick='dotab(this); setURL("https://ma5.vicious-cdn.football/ad3.html?live")'>
