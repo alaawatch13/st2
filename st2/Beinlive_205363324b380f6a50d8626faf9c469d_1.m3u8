@@ -1,15 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2"
-https://ma5.vicious-cdn.football/ad1.html?live/amgzfsfwwwws*_SD")'>
+https://ma5.vicious-cdn.football/ad1.html?live")'>
 360p
-  </button><button class='button' onclick='dotab(this); setURL("https://ma5.vicious-cdn.football/ad2.html?live/amgzfsfww_HD")'>
+  </button><button class='button' onclick='dotab(this); setURL("https://ma5.vicious-cdn.football/ad2.html?live")'>
 480p
   </button>
-<button class='button' onclick='dotab(this); setURL("https://ma5.vicious-cdn.football/ad3.html?live/amgzfsfww_FHD")'>
+<button class='button' onclick='dotab(this); setURL("https://ma5.vicious-cdn.football/ad3.html?live")'>
 720p
   </button>
-     <button class='button' onclick='dotab(this); setURL("https://ma5.vicious-cdn.football/ad4.html?live/amgzfsfw_FHD")'>
+     <button class='button' onclick='dotab(this); setURL("https://ma5.vicious-cdn.football/ad4.html?live")'>
 1080p
   </button>
 </div>
