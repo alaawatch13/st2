@@ -2,10 +2,10 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2"
 https://tent-type: text/html; charset=UTF-8
-expires: Wed, 09 Mar 2022 01:42:02 GMT
-date: Wed, 09 Mar 2022 01:42:02 GMT
+expires: Wed, 09 Mar 2022 01:43:02 GMT
+date: Wed, 09 Mar 2022 01:43:02 GMT
 cache-control: private, max-age=0
-last-modified: Wed, 09 Mar 2022 01:41:30 GMT
+last-modified: Wed, 09 Mar 2022 01:42:35 GMT
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 server: GSE
@@ -260,7 +260,7 @@ iframe#iframe {
     width: 166px;
     height: 70px;
 }</style>
-<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2094640537176475023&amp;zx=ec16ec34-beea-4b47-977c-4712b9f93ba7' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2094640537176475023&amp;zx=ec16ec34-beea-4b47-977c-4712b9f93ba7' rel='stylesheet'/></noscript>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2094640537176475023&amp;zx=a9f8cb3b-f78b-49cc-8fc5-d1f5746c60d9' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2094640537176475023&amp;zx=a9f8cb3b-f78b-49cc-8fc5-d1f5746c60d9' rel='stylesheet'/></noscript>
 <meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
 <meta name='google-adsense-platform-domain' content='blogspot.com'/>
 
@@ -338,7 +338,7 @@ iframe#iframe {
         "https://example.com/photos/16x9/photo.jpg"
        ],
       "datePublished": "2021-10-13T11:31:00-07:00",
-      "dateModified": "2022-03-09T01:41:30Z",
+      "dateModified": "2022-03-09T01:42:35Z",
       "author": {
         "@type": "Person",
         "name": "owner"
@@ -417,4 +417,4 @@ iframe#iframe {
 </div>              
          <script>
            var mobile_server= ['https://ma.livekoora.online/search?q=https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/1_vq01i5SEXAkyoAHCCvCsIEwmjCsKfPyMo6eyFZkLJ09ptGj2AW8WBK4zjnnLzuVp0dOzmTzmjD9e7KJ6_iJw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live&view=svideo&m=1'];
-           var no_mobile_iframe = "https://s51.moroccan-network.football/live/apj2pd166dnb_HD.m3u8
+           var no_mobile_iframe = "https://s51.moroccan-network.football/live/apj2pd166dnb_SD.m3u8
