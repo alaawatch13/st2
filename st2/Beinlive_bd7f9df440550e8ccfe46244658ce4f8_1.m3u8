@@ -1,11 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2"
-https://tent-type: text/html; charset=UTF-8
-expires: Fri, 11 Mar 2022 00:46:04 GMT
-date: Fri, 11 Mar 2022 00:46:04 GMT
+https://tent-security-policy: upgrade-insecure-requests
+content-security-policy-report-only: default-src https: blob: data: 'unsafe-inline' 'unsafe-eval'; report-uri https://www.blogger.com/cspreport
+content-type: text/html; charset=UTF-8
+expires: Fri, 11 Mar 2022 00:47:04 GMT
+date: Fri, 11 Mar 2022 00:47:04 GMT
 cache-control: private, max-age=0
-last-modified: Fri, 11 Mar 2022 00:43:44 GMT
+last-modified: Fri, 11 Mar 2022 00:46:33 GMT
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 server: GSE
@@ -260,7 +262,7 @@ iframe#iframe {
     width: 166px;
     height: 70px;
 }</style>
-<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2094640537176475023&amp;zx=3bc65281-baa3-4aab-8695-30acc91d1189' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2094640537176475023&amp;zx=3bc65281-baa3-4aab-8695-30acc91d1189' rel='stylesheet'/></noscript>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2094640537176475023&amp;zx=7f16ce05-8a0c-483e-b53f-0fa71b5d4dc8' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2094640537176475023&amp;zx=7f16ce05-8a0c-483e-b53f-0fa71b5d4dc8' rel='stylesheet'/></noscript>
 <meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
 <meta name='google-adsense-platform-domain' content='blogspot.com'/>
 
