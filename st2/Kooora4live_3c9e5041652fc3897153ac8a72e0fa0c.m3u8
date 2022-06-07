@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2"
+https://t3.kora2022.com/video/hls/inqjhZ6JJt1QyYxoGU3fwQ/1654619645/multi-03.m3u8
